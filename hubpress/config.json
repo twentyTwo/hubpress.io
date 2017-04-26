@@ -2,7 +2,8 @@
   "meta": {
     "username": "twentyTwo",
     "repositoryName": "twentyTwo.github.io",
-    "branch": "master"
+    "branch": "master",
+    "cname": ""
   },
   "theme": {
     "name": "casper"
@@ -22,5 +23,27 @@
       null,
       null
     ]
+  },
+  "site": {
+    "title": "",
+    "description": "",
+    "logo": "",
+    "cover": "",
+    "delay": "",
+    "postsPerPage": "10",
+    "googleAnalytics": "Google analytics",
+    "disqus": ""
+  },
+  "socialnetwork": {
+    "email": "",
+    "github": "github.com/twentyTwo",
+    "twitter": "",
+    "facebook": "facebook.com/noor.a.shuvo",
+    "googleplus": "",
+    "instagram": "",
+    "pinterest": "",
+    "flickr": "",
+    "linkedin": "https://www.linkedin.com/in/md-noor-alam-shuvo-63ab7618/",
+    "stackoverflow": "http://stackoverflow.com/users/4623602/noor-a-shuvo"
   }
 }
