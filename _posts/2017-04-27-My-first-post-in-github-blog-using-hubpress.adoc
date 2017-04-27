@@ -1,8 +1,0 @@
-= My first post in github blog using hubpress
-
- :published_at: 201-0-27
- 
- :hp-tags: HubPress, Blog, Open_Source, github_pages
- :hp-alt-title: My First Blog on Github Pages
- 
- Welcome to my first blog on *github pages* using hubpress
